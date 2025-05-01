@@ -4,6 +4,8 @@ This is a FiveM resource that allows players to clean nearby vehicles using a sp
 
 > ⚠️ I did not create the original version of this script. All credit goes to the original author — I have simply **converted** it to work with the **QBCore framework**. This version is modified to be fully compatible with QBCore servers, using `ox_inventory` for item metadata (durability), and `ox_lib` for progress bars and notifications.
 
+[Original](https://forum.cfx.re/t/free-esx-ultimate-vehicle-cleaning-sponge-script/5311905)
+
 ## Features
 
 - Clean nearby vehicles with animation and prop.
