@@ -1,4 +1,4 @@
-# skr-fz_sponge
+# qb-fz_sponge
 
 This is a FiveM resource that allows players to clean nearby vehicles using a sponge item. The script features prop attachment, animations, and durability tracking using `ox_inventory` and `ox_lib`.
 
