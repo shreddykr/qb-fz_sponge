@@ -14,6 +14,18 @@ This is a FiveM resource that allows players to clean nearby vehicles using a sp
 - Inventory integration using `ox_inventory`.
 - Styled progress and notifications via `ox_lib`.
 
+## OX Inventory Item
+	['sponge'] = {
+		label = 'Cleaning Sponge',
+		weight = 100,
+		stack = false,
+		close = true,
+		description = 'A sponge for cleaning vehicles',
+		client = {
+			export = 'fz_sponge.fz_sponge:use'
+		}
+	},
+
 ## Dependencies
 
 - QBCore
